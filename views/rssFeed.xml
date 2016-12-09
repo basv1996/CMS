@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+ 
+  <title>side2side</title>
+  <link>http://21248.hosts.ma-cloud.nl/bewijzenmap/leerjaar2/periode1/Project/MyBand/</link>
+  <description>website ober side 2 side</description>
+  
+  <item>
+    <title>nieuw artikel</title>
+    <link>http://21248.hosts.ma-cloud.nl/bewijzenmap/leerjaar2/periode1/Project/MyBand/</link>
+    <description>er is een nieuw artikel geplaatst</description>
+  </item>
+  
+  <item>
+    <title>tour bekend</title>
+    <link>http://21248.hosts.ma-cloud.nl/bewijzenmap/leerjaar2/periode1/Project/MyBand/?action=tour</link>
+    <description>new tour data is bekend</description>
+    </item>
+</channel>
+</rss>

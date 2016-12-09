@@ -1,0 +1,25 @@
+/*
+ * Dit is de custom style sheet van jouw website
+ *
+ */
+
+html, body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0; 
+  background-color: aliceblue;
+  background-position: center center;
+  background-repeat:no-repeat ;
+  background-attachment:fixed;
+  background-size: 100% 100% ;
+  bottom: 0;}
+
+.desc {
+	background-color: #fff;
+	border: 1px solid #000;
+	position: absolute;
+	margin-left: 100px;
+	margin-top: -20px;
+	width: 200px;	
+}
+
